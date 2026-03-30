@@ -33,8 +33,8 @@ For the application to run smoothly and utilize the model's full potential on yo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUser/Florence-Insight.git
-   cd Florence-Insight
+   git clone https://github.com/WowkDigital/Florence_Insight_WD.git
+   cd Florence_Insight_WD
    ```
 
 2. **Automated Setup (Recommended):**
